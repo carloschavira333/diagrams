@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T14:42:13.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="AthQLo6c0GBpZCPMoEFo" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T14:43:25.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9MqkSvNrqE9Jze3AV5Ex" version="20.5.3" type="github">
   <diagram id="KzUfj6VYNhImVXLiIEN2" name="Page-1">
-    <mxGraphModel dx="29.17" dy="-1521.59" grid="1" gridSize="10" guides="1" tooltips="0" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="177.6" dy="-1451.78" grid="1" gridSize="10" guides="1" tooltips="0" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
         <mxCell id="_bQ4Y4oTIahBGwz-r62u-31" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="161" y="1022" width="38" height="13" as="geometry" />
         </mxCell>
-        <mxCell id="_bQ4Y4oTIahBGwz-r62u-32" value="Assign a password (LNGTOFSgames20225) and confirm it." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+        <mxCell id="_bQ4Y4oTIahBGwz-r62u-32" value="Assign a password (refer to image) and confirm it." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="312.88" y="1017" width="248.71" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_bQ4Y4oTIahBGwz-r62u-33" value="This section is only created once." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
