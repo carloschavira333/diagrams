@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-04T17:19:05.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="mU2fVzrIPMYTceIC1k7y" version="20.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-12-04T19:49:17.126Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="vT-Z9Wr6g8Bb-aAT_SKM" version="20.6.0" type="github" pages="5">
   <diagram id="ZyD1vNNpcchKfjXO9hZY" name="React, Node, Express, MySQL">
     <mxGraphModel dx="647" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WSM03WzKRhKy0TitKmRa" name="Unity">
-    <mxGraphModel dx="661" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="402" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,6 +176,27 @@
         </mxCell>
         <mxCell id="fouv3_d-4eDCC8hb8Kab-1" value="SECTION 4: BASIC PHYSICS&lt;br&gt;MINI GAME [PART 1.1]" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fouv3_d-4eDCC8hb8Kab-2" value="Sprite Creator" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="370" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fouv3_d-4eDCC8hb8Kab-3" value="&lt;b&gt;Rigidbody and Gravity&lt;br&gt;&lt;/b&gt;- Dynamic: Player&lt;br&gt;- Kinematic: Moving Platform&lt;br&gt;- Static: Ground" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fouv3_d-4eDCC8hb8Kab-4" value="Colliders and Triggers" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fouv3_d-4eDCC8hb8Kab-5" value="Collision Matrix and Layers" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="580" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fouv3_d-4eDCC8hb8Kab-6" value="Challenge - Collision" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fouv3_d-4eDCC8hb8Kab-7" value="Create new scene&lt;br&gt;Create a folder &quot;Scripts&quot;&lt;br&gt;Create a folder &quot;Sprites&quot;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="140" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fouv3_d-4eDCC8hb8Kab-8" value="Create a 2D mini game. The scene has four walls. Balls enter scene from the top and fall towards the bottom. It has a player that moves from left to right at the bottom. When the balls hit the player, the balls roll off to the left or right." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="250" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
